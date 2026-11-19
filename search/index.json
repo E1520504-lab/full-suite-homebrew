@@ -1,0 +1,45 @@
+{
+  "x": [
+    {
+      "id": 1,
+      "c": 4,
+      "n": "The Crooked Measure",
+      "cn": "偏衡杯",
+      "s": "HOMEBREW",
+      "u": "the%20crooked%20measure_homebrew",
+      "p": 0
+    },
+    {
+      "id": 2,
+      "c": 7,
+      "n": "Focused Critical",
+      "cn": "专注重击",
+      "s": "HOMEBREW",
+      "u": "focused%20critical_homebrew",
+      "p": 0
+    },
+    {
+      "id": 3,
+      "c": 8,
+      "n": "Conjure Drink",
+      "cn": "嗟，来饮！",
+      "s": "HOMEBREW",
+      "u": "conjure%20drink_homebrew",
+      "p": 0
+    },
+    {
+      "id": 4,
+      "c": 8,
+      "n": "Aura of Fraternity",
+      "cn": "情谊灵光",
+      "s": "HOMEBREW",
+      "u": "aura%20of%20fraternity_homebrew",
+      "p": 0
+    }
+  ],
+  "m": {
+    "s": {
+      "HOMEBREW": 9000
+    }
+  }
+}
