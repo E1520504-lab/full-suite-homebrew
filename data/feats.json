@@ -1,0 +1,13 @@
+{
+  "feat": [
+    {
+      "name": "专注重击",
+      "ENG_name": "Focused Critical",
+      "source": "HOMEBREW",
+      "page": 0,
+      "entries": [
+        "当你的攻击掷骰掷出自然 19 或 20 时，即为重击。"
+      ]
+    }
+  ]
+}
