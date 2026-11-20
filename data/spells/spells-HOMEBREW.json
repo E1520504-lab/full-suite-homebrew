@@ -1,0 +1,46 @@
+{
+  "spell": [
+    {
+      "source": "HOMEBREW",
+      "page": 0,
+      "name": "魂灵环绕",
+      "ENG_name": "Spirit Shroud",
+      "level": 3,
+      "school": "N",
+      "time": [
+        {
+          "number": 1,
+          "unit": "bonus"
+        }
+      ],
+      "range": {
+        "type": "point",
+        "distance": {
+          "type": "self"
+        }
+      },
+      "components": {
+        "v": true,
+        "s": true
+      },
+      "duration": [
+        {
+          "type": "timed",
+          "duration": {
+            "type": "minute",
+            "amount": 1
+          },
+          "concentration": true
+        }
+      ],
+      "classes": {
+        "fromClassList": []
+      },
+      "entries": [
+        "由觉醒态诀别遗物「六重呼唤」赋予。每长休可施展 1 次三环「魂灵环绕」。施法为附赠动作，专注至多 1 分钟。死灵系，距离自身，成分 V/S。",
+        "持续期间，你命中 10 尺内的生物时额外造成 {@damage 1d8} 光耀、黯蚀或冷冻伤害（施法时选定）。受此额外伤害的生物在你下回合开始前无法恢复生命值。",
+        "你能看见的生物在你 10 尺内开始回合时，你可以使其速度减少 10 尺，直到你下回合开始。"
+      ]
+    }
+  ]
+}

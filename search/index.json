@@ -35,6 +35,33 @@
       "s": "HOMEBREW",
       "u": "aura%20of%20fraternity_homebrew",
       "p": 0
+    },
+    {
+      "id": 5,
+      "c": 4,
+      "n": "Liu Chong Hu Huan",
+      "cn": "六重呼唤",
+      "s": "HOMEBREW",
+      "u": "liu%20chong%20hu%20huan_homebrew",
+      "p": 0
+    },
+    {
+      "id": 6,
+      "c": 8,
+      "n": "Liu Chong Hu Huan (AC Reaction)",
+      "cn": "六重呼唤（反应加 AC）",
+      "s": "HOMEBREW",
+      "u": "liu%20chong%20hu%20huan%20(ac%20reaction)_homebrew",
+      "p": 0
+    },
+    {
+      "id": 7,
+      "c": 2,
+      "n": "Spirit Shroud",
+      "cn": "魂灵环绕",
+      "s": "HOMEBREW",
+      "u": "spirit%20shroud_homebrew",
+      "p": 0
     }
   ],
   "m": {

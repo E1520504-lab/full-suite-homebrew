@@ -72,6 +72,34 @@
           ]
         }
       ]
+    },
+    {
+      "source": "HOMEBREW",
+      "page": 0,
+      "name": "六重呼唤",
+      "ENG_name": "Liu Chong Hu Huan",
+      "type": "OTH",
+      "wondrous": true,
+      "weight": 0,
+      "value": 0,
+      "rarity": "unknown (magic)",
+      "entries": [
+        "诀别遗物，觉醒态。",
+        {
+          "type": "entries",
+          "name": "魂灵环绕",
+          "entries": [
+            "每长休可施展 1 次三环「魂灵环绕」。施法为附赠动作，专注至多 1 分钟。"
+          ]
+        },
+        {
+          "type": "entries",
+          "name": "反应加 AC",
+          "entries": [
+            "使用一次反应，使自己的 AC 临时获得 +5 加值。纳西亚常驻 AC 17，加值适用时为 AC 22。触发条件和持续时间待确认。"
+          ]
+        }
+      ]
     }
   ]
 }
