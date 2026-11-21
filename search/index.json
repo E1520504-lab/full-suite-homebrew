@@ -98,6 +98,24 @@
       "s": "HOMEBREW",
       "u": "claw_homebrew",
       "p": 0
+    },
+    {
+      "id": 12,
+      "c": 4,
+      "n": "Vermilion Line",
+      "cn": "朱线",
+      "s": "HOMEBREW",
+      "u": "vermilion%20line_homebrew",
+      "p": 0
+    },
+    {
+      "id": 13,
+      "c": 8,
+      "n": "Qing Jian Lian Ji",
+      "cn": "轻剑连击",
+      "s": "HOMEBREW",
+      "u": "qing%20jian%20lian%20ji_homebrew",
+      "p": 0
     }
   ],
   "m": {
