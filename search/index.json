@@ -134,6 +134,123 @@
       "s": "HOMEBREW",
       "u": "hunter%E2%80%99s%20mark%20(no%20concentration)_homebrew",
       "p": 0
+    },
+    {
+      "id": 16,
+      "c": 4,
+      "n": "Flask of Endless Libations",
+      "cn": "无尽酒壶",
+      "s": "HOMEBREW",
+      "u": "flask%20of%20endless%20libations_homebrew",
+      "p": 0
+    },
+    {
+      "id": 17,
+      "c": 4,
+      "n": "Protean Implement",
+      "cn": "百相法具",
+      "s": "HOMEBREW",
+      "u": "protean%20implement_homebrew",
+      "p": 0
+    },
+    {
+      "id": 18,
+      "c": 4,
+      "n": "Ring of the Waning Hour",
+      "cn": "生命警示戒指",
+      "s": "HOMEBREW",
+      "u": "ring%20of%20the%20waning%20hour_homebrew",
+      "p": 0
+    },
+    {
+      "id": 19,
+      "c": 8,
+      "n": "Core Strain",
+      "cn": "源核过载",
+      "s": "HOMEBREW",
+      "u": "core%20strain_homebrew",
+      "p": 0
+    },
+    {
+      "id": 20,
+      "c": 8,
+      "n": "Outworldly Grace",
+      "cn": "异界馈赠",
+      "s": "HOMEBREW",
+      "u": "outworldly%20grace_homebrew",
+      "p": 0
+    },
+    {
+      "id": 21,
+      "c": 8,
+      "n": "Mystic Mastery",
+      "cn": "秘法统御",
+      "s": "HOMEBREW",
+      "u": "mystic%20mastery_homebrew",
+      "p": 0
+    },
+    {
+      "id": 22,
+      "c": 8,
+      "n": "The Tide of Magic",
+      "cn": "魔潮理论",
+      "s": "HOMEBREW",
+      "u": "the%20tide%20of%20magic_homebrew",
+      "p": 0
+    },
+    {
+      "id": 23,
+      "c": 8,
+      "n": "Source Revelations",
+      "cn": "秘源启示",
+      "s": "HOMEBREW",
+      "u": "source%20revelations_homebrew",
+      "p": 0
+    },
+    {
+      "id": 24,
+      "c": 8,
+      "n": "Source Magic",
+      "cn": "秘源魔法",
+      "s": "HOMEBREW",
+      "u": "source%20magic_homebrew",
+      "p": 0
+    },
+    {
+      "id": 25,
+      "c": 8,
+      "n": "Spell Reconfiguration",
+      "cn": "术式重构",
+      "s": "HOMEBREW",
+      "u": "spell%20reconfiguration_homebrew",
+      "p": 0
+    },
+    {
+      "id": 26,
+      "c": 8,
+      "n": "Arcane Divergence",
+      "cn": "奥术分歧",
+      "s": "HOMEBREW",
+      "u": "arcane%20divergence_homebrew",
+      "p": 0
+    },
+    {
+      "id": 27,
+      "c": 8,
+      "n": "Source Magic (Loss of Control)",
+      "cn": "秘源魔法（失控）",
+      "s": "HOMEBREW",
+      "u": "source%20magic%20(loss%20of%20control)_homebrew",
+      "p": 0
+    },
+    {
+      "id": 28,
+      "c": 8,
+      "n": "Source Magic (Overload)",
+      "cn": "秘源魔法（超载）",
+      "s": "HOMEBREW",
+      "u": "source%20magic%20(overload)_homebrew",
+      "p": 0
     }
   ],
   "m": {
