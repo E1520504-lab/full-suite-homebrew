@@ -116,6 +116,24 @@
       "s": "HOMEBREW",
       "u": "qing%20jian%20lian%20ji_homebrew",
       "p": 0
+    },
+    {
+      "id": 14,
+      "c": 4,
+      "n": "Revolver Rifle +1",
+      "cn": "左轮步枪+1",
+      "s": "HOMEBREW",
+      "u": "revolver%20rifle%20%2B1_homebrew",
+      "p": 0
+    },
+    {
+      "id": 15,
+      "c": 2,
+      "n": "Hunter’s Mark (No Concentration)",
+      "cn": "猎人印记（无专注）",
+      "s": "HOMEBREW",
+      "u": "hunter%E2%80%99s%20mark%20(no%20concentration)_homebrew",
+      "p": 0
     }
   ],
   "m": {
