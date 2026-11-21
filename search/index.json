@@ -62,6 +62,42 @@
       "s": "HOMEBREW",
       "u": "spirit%20shroud_homebrew",
       "p": 0
+    },
+    {
+      "id": 8,
+      "c": 8,
+      "n": "Fen Mu Xiu Jue",
+      "cn": "坟墓嗅觉",
+      "s": "HOMEBREW",
+      "u": "fen%20mu%20xiu%20jue_homebrew",
+      "p": 0
+    },
+    {
+      "id": 9,
+      "c": 8,
+      "n": "Wang Ling Ben Zhi",
+      "cn": "亡灵本质",
+      "s": "HOMEBREW",
+      "u": "wang%20ling%20ben%20zhi_homebrew",
+      "p": 0
+    },
+    {
+      "id": 10,
+      "c": 8,
+      "n": "Bu Si Ren Xing",
+      "cn": "不死韧性",
+      "s": "HOMEBREW",
+      "u": "bu%20si%20ren%20xing_homebrew",
+      "p": 0
+    },
+    {
+      "id": 11,
+      "c": 8,
+      "n": "Claw",
+      "cn": "爪击",
+      "s": "HOMEBREW",
+      "u": "claw_homebrew",
+      "p": 0
     }
   ],
   "m": {
